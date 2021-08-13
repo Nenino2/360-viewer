@@ -5,5 +5,5 @@ if (imageUrl) {
     viewer.add( panorama );
     console.log('loaded');
 } else {
-    console.warn('No image found')
+    alert('NO IMAGE FOUND');
 }
